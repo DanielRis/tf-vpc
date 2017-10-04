@@ -1,0 +1,14 @@
+# Compiled files
+*.tfplan
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+# Variable values for development
+terraform.tfvars
+
+# Visual Studio Code
+.vscode

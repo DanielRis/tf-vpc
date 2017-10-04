@@ -1,1 +1,1 @@
-# Terraforge Simple Demo Project
+# Terraforge Simple Module Example
